@@ -1,0 +1,3 @@
+selenium
+mysql-connector-python
+pyinstaller
